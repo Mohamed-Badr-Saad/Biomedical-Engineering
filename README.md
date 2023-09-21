@@ -39,5 +39,5 @@ Feel free to explore the code and resources in this repository for signal proces
 Contributions and improvements to the project are welcome! If you have suggestions, bug fixes, or want to collaborate, please create a pull request or open an issue.
 
 ## Contact
-If you have any questions or would like to connect, you can reach me at [badrm7103@gmail.com].
+If you have any questions or would like to connect, you can reach me at [mohamedbadrsaad23@gmail.com].
 
